@@ -1,4 +1,5 @@
 bs4
+chromadb
 docarray
 faiss-cpu
 google-api-core
